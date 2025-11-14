@@ -55,16 +55,16 @@
     background: url(img/back.png) center no-repeat #000;
 }
 
-#play {
+/* #play {
     padding: 0.5rem 1rem;
     font-size: 1rem;
     border-radius: 6px;
     cursor: pointer;
     text-align: center;
-}
+} */
 
 /* Make the button more touch-friendly on phones */
-@media (max-width: 576px) {
+/* @media (max-width: 576px) {
     .loader {
         padding-top: 1.25rem;
     }
@@ -74,7 +74,7 @@
         font-size: 1.05rem;
         padding: 0.6rem 1rem;
     }
-}
+} */
 
 .song {
     display: none;
