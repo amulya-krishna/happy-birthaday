@@ -53,16 +53,16 @@
     z-index: 999;
     background: url(back.png) center no-repeat #000;
 }
-.loader {
+/* .loader {
     display: flex;
     justify-content: center;
     align-items: center;
     width: 100%;
     padding: 1rem 0;
-}
+} */
 
 /* Make the button more touch-friendly on phones */
-@media (max-width: 576px) {
+/* @media (max-width: 576px) {
     .loader {
         padding-top: 1.25rem;
     }
@@ -72,7 +72,7 @@
         font-size: 1.05rem;
         padding: 0.6rem 1rem;
     }
-}
+} */
 
 .song {
     display: none;
